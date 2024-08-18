@@ -23,7 +23,7 @@ export default function Home(props) {
                             <li className="list-group-item">Maintain privacy using credentials</li>
                         </ul>
                         <p className="lead">
-                        <a className="btn btn-primary btn-lg mt-4" href="http://localhost:3000/signup" role="button">Get Started</a>
+                        <a className="btn btn-primary btn-lg mt-4" href="http://localhost:5000/signup" role="button">Get Started</a>
                         </p>
                     </div>
                 </div>

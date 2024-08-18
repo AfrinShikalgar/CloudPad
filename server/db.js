@@ -2,7 +2,7 @@ const mongoose = require('mongoose');
 const env = require('dotenv');
 env.config({ path: `${__dirname}/.env` });
 
-const mongoURI = `mongodb://localhost:27017/cloudpad`;
+const mongoURI =  "mongodb+srv://shikalgarafrin7:cqcYmbCBezVzmMe3@cluster0.v53vtdk.mongodb.net/cloudpad";
 
 const connectToMongo = ()=> {
 
